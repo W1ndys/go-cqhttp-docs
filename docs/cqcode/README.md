@@ -610,7 +610,7 @@ Type: `xml`
 
 ##### 一些 xml 样例
 
-##### ps:重要 : xml 中的 value 部分, 记得 html 实体化处理后, 再打加入到 CQ 码中
+##### ps:重要 : xml 中的 value 部分, 记得 html 实体化处理后, 再加入到 CQ 码中
 
 ##### QQ 音乐
 
